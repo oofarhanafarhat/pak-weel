@@ -116,7 +116,7 @@ const Footer = () => {
     
       </div>
       <footer className="place-items-center text-gray-300  ">
-        <h1 className="text-lg mb-5 pb-20">ALL  copyright reserved</h1>
+        <h1 className="text-lg mb-0 pb-20">ALL  copyright reserved</h1>
       </footer>
   
       
